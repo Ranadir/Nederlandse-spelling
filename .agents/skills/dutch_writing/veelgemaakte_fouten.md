@@ -1,13 +1,13 @@
-# Veelgemaakte Fouten (Valkuilen)
+# Veelgemaakte fouten (valkuilen)
 
 Bron: https://onzetaal.nl/taalloket/thematisch-taaladvies
 
 Dit overzicht behandelt specifieke taalkwesties en 'gotcha's' die vaak tot fouten leiden.
 
-## Heel vs. Hele
+## Heel vs. hele
 Een van de meest gemaakte fouten is het gebruik van *hele* wanneer *heel* correct is.
 
-### De Regel
+### De regel
 - **Heel (als bijwoord - 'zeer')**: Wanneer *heel* een bijvoeglijk naamwoord versterkt, is het een bijwoord en wordt het **niet verbogen**.
     - *Wel*: Een **heel** mooie taart. (Een *zeer* mooie taart).
     - *Foutief*: Een *hele* mooie taart. (In de betekenis van 'zeer').
@@ -18,23 +18,23 @@ Een van de meest gemaakte fouten is het gebruik van *hele* wanneer *heel* correc
 
 **Kern**: Verwijst het naar een kenmerk (bijv. naamw.)? Gebruik **heel**. Verwijst het naar het ding zelf (zelfst. naamw.)? Gebruik **heel/hele**.
 
-## Dat vs. Wat
+## Dat vs. wat
 - **Dat**: Verwijst naar een specifiek *het*-woord (*Het boek dat ik lees*).
 - **Wat**: Verwijst naar:
     - Een hele zin (*Hij vergat het, wat jammer was*).
     - Onbepaalde woorden zoals *iets*, *niets*, *alles*, *datgene*.
     - Een zelfstandig gebruikt bijvoeglijk naamwoord, vaak een overtreffende trap (*Het mooiste wat ik ken*).
 
-## Hen vs. Hun
+## Hen vs. hun
 - **Hen**: Gebruik als lijdend voorwerp (*Ik zie hen*) of na een voorzetsel (*Ik geef het aan hen*).
 - **Hun**: Gebruik als meewerkend voorwerp zonder voorzetsel (*Ik geef hun het boek*).
 - *Tip*: Bij twijfel is **ze** vaak een veilig en correct alternatief.
 
-## Dan vs. Als (Vergelijkingen)
+## Dan vs. als (vergelijkingen)
 - **Dan**: Bij een verschil/trapping van vergelijking (*groter dan*, *beter dan*).
 - **Als**: Bij een gelijkheid (*even groot als*, *net zo goed als*).
 
-## Email vs. E-mail
+## Email vs. e-mail
 Er is een belangrijk verschil tussen het materiaal *email* en elektronische post (*e-mail*).
 
 - **Email (materiaal)**: Uitgesproken als 'ee-maj', een glasachtige laag op bijv. pannen.
@@ -44,7 +44,7 @@ Er is een belangrijk verschil tussen het materiaal *email* en elektronische post
 - **E-mail (post)**: Elektronische post schrijf je altijd met een streepje.
     - Dit geldt ook voor afgeleiden: **e-mailen**, **e-mailadres**, **e-mailbericht**.
 
-## Jongetje vs. Jonkie
+## Jongetje vs. jonkie
 De verkleinvormen van *jongen* en *jong* (dier) zijn uitzonderlijk.
 
 - **Jongetje (van 'jongen')**: Hoewel woorden op *-en* normaal de 'n' behouden (*wezentje*, *molentje*), schrijf je *jongetje* zonder 'n'. Dit komt door de afleiding van de oude vorm *jonge*.
@@ -52,7 +52,7 @@ De verkleinvormen van *jongen* en *jong* (dier) zijn uitzonderlijk.
     - *Foutief*: *Jongentje*.
 - **Jonkie (van 'jong' - dier)**: Het verkleinwoord van een pasgeboren dier is het onregelmatige **jonkie**, niet *jongetje*.
 
-## Echter vs. Maar
+## Echter vs. maar
 *Maar* en *echter* drukken beide een tegenstelling uit, maar ze hebben een andere grammaticale functie.
 
 - **Maar (voegwoord)**: Staat altijd vooraan in een de (bij)zin. Er komt **geen** komma achter.

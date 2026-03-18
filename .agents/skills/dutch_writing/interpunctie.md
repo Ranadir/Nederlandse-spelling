@@ -21,7 +21,7 @@ Gebruik een komma:
 - Bij bijstellingen of tussenwerpels.
 - Bij uitbreidende bijvoeglijke bijzinnen (niet-essentiële info).
 
-## De Aanhalingstekens (“ ”)
+## De aanhalingstekens (“ ”)
 Bij citaten gelden de volgende regels voor de combinatie met andere leestekens:
 
 ### Hele zin geciteerd
