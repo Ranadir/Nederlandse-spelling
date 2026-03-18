@@ -1,5 +1,9 @@
 # Spelling (Nederlands)
 
+Bronnen:
+- https://publicaties.vlaanderen.be/view-file/51624
+- https://www.spatiegebruik.nl/regels.html
+
 Dit overzicht bevat de belangrijkste regels van de Nederlandse spelling volgens de officiële Leidraad.
 
 ## Basisprincipes

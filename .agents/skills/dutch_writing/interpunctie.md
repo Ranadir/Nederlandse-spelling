@@ -1,5 +1,9 @@
 # Interpunctie (Leestekens)
 
+Bronnen:
+- https://goedverwoord.nl/juiste-interpunctie-gebruiken-in-je-teksten/
+- https://onzetaal.nl/taalloket/aanhalingstekens-en-leestekens
+
 Leestekens zorgen voor structuur en leesbaarheid in een tekst.
 
 ## Basisregels

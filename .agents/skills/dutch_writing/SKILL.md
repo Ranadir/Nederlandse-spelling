@@ -1,6 +1,13 @@
 ---
 name: "Dutch Writing"
 description: "Rules and guidelines for writing correct Dutch, covering spelling, punctuation, and style."
+sources:
+  - "https://publicaties.vlaanderen.be/view-file/51624"
+  - "https://www.dikverhaar.nl/wp-content/uploads/Overzicht_voegwoorden.pdf"
+  - "https://www.spatiegebruik.nl/regels.html"
+  - "https://goedverwoord.nl/juiste-interpunctie-gebruiken-in-je-teksten/"
+  - "https://onzetaal.nl/taalloket/thematisch-taaladvies"
+  - "https://onzetaal.nl/taalloket/aanhalingstekens-en-leestekens"
 ---
 
 # Nederlands Schrijven (Dutch Writing)
