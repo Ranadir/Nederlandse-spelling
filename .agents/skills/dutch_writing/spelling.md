@@ -19,6 +19,26 @@ Dit overzicht bevat de belangrijkste regels van de Nederlandse spelling volgens 
 - **Korte klinkers**: Altijd enkel in gesloten lettergreep (*bal*, *pot*).
 - **Medeklinkers**: Worden verdubbeld na een korte klinker in een open lettergreep (*ballen*, *potten*).
 
+## Engelse woordgroepen in samenstellingen
+Wanneer een Engelse woordgroep (zoals *human resources* of *social media*) onderdeel wordt van een grotere Nederlandse samenstelling, gelden specifieke regels voor spaties en streepjes.
+
+### De Basisregel
+Schrijf de samenstelling in principe als **één lang woord**, zonder spaties tussen de Engelse delen.
+- *human resources* + *afdeling* = **humanresourcesafdeling**
+- *big bang* + *theorie* = **bigbangtheorie**
+- *intensive care* + *arts* = **intensivecarearts**
+- *social media* + *expert* = **socialmediaexpert**
+
+### Streepjes voor Duidelijkheid
+Je mag altijd een of meer **streepjes** toevoegen om de opbouw duidelijker te maken. Dit is een keuze.
+- **human-resourcesafdeling**, **humanresources-afdeling** of **human-resources-afdeling**.
+
+### Verplicht Streepje
+Een streepje is **verplicht** in de volgende gevallen:
+1. **Klinkerbotsing**: *socialmedia-account*, *private-equityfonds*.
+2. **Vaste uitdrukkingen**: *face-to-facecontact*.
+3. **Andere talen**: Bij woordgroepen uit andere talen dan Engels (bijv. Frans of Latijn) is een streepje na het eerste deel verplicht: *haute-couturecollectie*, *ad-hocoplossing*.
+
 ## Werkwoordspelling
 - **Basis**: Stam + uitgang.
 - **Stam**: Het hele werkwoord minus *-en* (*werken* -> *werk*, *worden* -> *word*).

@@ -8,6 +8,7 @@ sources:
   - "https://goedverwoord.nl/juiste-interpunctie-gebruiken-in-je-teksten/"
   - "https://onzetaal.nl/taalloket/thematisch-taaladvies"
   - "https://onzetaal.nl/taalloket/aanhalingstekens-en-leestekens"
+  - "https://onzetaal.nl/taalloket/engelse-woordgroep-in-nederlandse-samenstellingen"
 ---
 
 # Nederlands Schrijven (Dutch Writing)
