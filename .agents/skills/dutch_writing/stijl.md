@@ -1,5 +1,9 @@
 # Stijl (Schrijfstijl)
 
+Bronnen:
+- https://www.dikverhaar.nl/wp-content/uploads/Overzicht_voegwoorden.pdf
+- https://onzetaal.nl/taalloket/thematisch-taaladvies
+
 Een goede schrijfstijl zorgt ervoor dat de boodschap helder overkomt. Dit begint bij het correct verbinden van zinnen.
 
 ## Voegwoorden (Conjunctions)

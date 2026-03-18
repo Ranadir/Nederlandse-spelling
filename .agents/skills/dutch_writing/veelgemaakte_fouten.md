@@ -1,5 +1,7 @@
 # Veelgemaakte Fouten (Valkuilen)
 
+Bron: https://onzetaal.nl/taalloket/thematisch-taaladvies
+
 Dit overzicht behandelt specifieke taalkwesties en 'gotcha's' die vaak tot fouten leiden.
 
 ## Heel vs. Hele
