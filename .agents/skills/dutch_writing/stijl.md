@@ -1,4 +1,4 @@
-# Stijl (Schrijfstijl)
+# Stijl (schrijfstijl)
 
 Bronnen:
 - https://www.dikverhaar.nl/wp-content/uploads/Overzicht_voegwoorden.pdf
@@ -6,7 +6,7 @@ Bronnen:
 
 Een goede schrijfstijl zorgt ervoor dat de boodschap helder overkomt. Dit begint bij het correct verbinden van zinnen.
 
-## Voegwoorden (Conjunctions)
+## Voegwoorden (conjunctions)
 
 Voegwoorden verbinden hoofdzinnen en bijzinnen.
 
@@ -47,7 +47,7 @@ In de bijzin staat de persoonsvorm achteraan.
     - Zakelijk: *Met vriendelijke groet,*.
     - Zeer formeel: *Hoogachtend,*.
 
-## Titulatuur (Titels)
+## Titulatuur (titels)
 - Plaats titels zoals *mr.*, *dr.*, *drs.*, *ir.* altijd vóór de naam met een kleine letter.
 - Bij een mastertitel achter de naam gebruik je een komma: *A. Jansen, MSc*.
 - Combineer je titels met 'De heer/Mevrouw', dan volgt de titel na de aanduiding: *De heer dr. A. Jansen*.

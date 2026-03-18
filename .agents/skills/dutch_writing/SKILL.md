@@ -11,7 +11,7 @@ sources:
   - "https://onzetaal.nl/taalloket/engelse-woordgroep-in-nederlandse-samenstellingen"
 ---
 
-# Nederlands Schrijven (Dutch Writing)
+# Nederlands schrijven (Dutch Writing)
 
 Deze skill helpt bij het schrijven van correct Nederlands volgens de officiële regels van de Nederlandse Taalunie (Het Groene Boekje) en algemeen aanvaarde stijlgidsen.
 
